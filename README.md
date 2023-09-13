@@ -8,6 +8,7 @@ Load mCODE data to a Neo4j Database
   - [APOC](https://github.com/neo4j-contrib/neo4j-apoc-procedures/releases)
 - Python:
   - Python version `3.11`
+  - `pip install click`
   - `pip install neo4j`
 
 ## Other:
